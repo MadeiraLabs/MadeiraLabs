@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="logo.png" alt="MadeiraLabs Logo" width="280">
+  <img src="https://github.com/MadeiraLabs/MadeiraLabs/blob/main/Madeiralabs.png?raw=true" alt="MadeiraLabs Logo" width="280">
 </p>
-
-<h1 align="center">MadeiraLabs</h1>
 
 <p align="center">
   <strong>Engenharia de Software de Alta Performance & Soluções Digitais Sob Medida</strong>
