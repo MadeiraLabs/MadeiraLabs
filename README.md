@@ -65,9 +65,8 @@ Com sede técnica no Brasil, a MadeiraLabs está preparada para atender clientes
 
 Se você precisa de uma solução técnica robusta, independente do nicho, nós estamos prontos.
 
-* **📧 Email:** [seu-email@madeiralabs.com]
-* **🔗 LinkedIn:** [Seu Link]
-* **🌐 Portfólio:** [Seu Site]
+* **📧 Email:** [@madeiralabs.com]
+* **🌐 Portfólio:**[https://madeira-labs.vercel.app/]
 
 ---
 
