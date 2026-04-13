@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../maderialabs/Madeiralabs.png" alt="MadeiraLabs Logo" width="250">
+  <img src="https://github.com/MadeiraLabs/MadeiraLabs/blob/main/Madeiralabs.png?raw=true" alt="MadeiraLabs Logo" width="250">
 </p>
 
 <h1 align="center">MadeiraLabs</h1>
