@@ -59,6 +59,7 @@ Com sede técnica no Brasil, a MadeiraLabs está preparada para atender clientes
 2.  **Agilidade:** Processos ágeis que permitem que você veja o progresso do software em tempo real.
 3.  **Código Limpo:** Software fácil de manter, evoluir e escalar conforme sua empresa cresce.
 
+<<<<<<< HEAD
 ---
 
 ## 📫 Vamos tirar sua ideia do papel?
@@ -67,6 +68,11 @@ Se você precisa de uma solução técnica robusta, independente do nicho, nós 
 
 * **📧 Email:** [@madeiralabs.com]
 * **🌐 Portfólio:**[https://madeira-labs.vercel.app/]
+=======
+* **📧 Email:** madeiralabs.com]
+* **🔗 LinkedIn:** [linkedin.com/company/madeiralabs]
+* **🌐 Website:** [www.madeiralabs.com]
+>>>>>>> 2fa1f63 (Deploy bio instagram)
 
 ---
 
